@@ -3,3 +3,4 @@ Python is my favourite language
 In this lesson we learn about git and github and basic commands of git and github
 
 
+Git push is used to push the changes to the remote repository this is the command i found useful
